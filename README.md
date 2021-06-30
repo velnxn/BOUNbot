@@ -32,7 +32,7 @@ Install the dialogflow and google-api-core modules by using !pip install.
 CONTRIBUTORS 
 ------------
 
- * Ateş İsmail Çalışır:
+ * Ateş İsmail Çalışır
  * Duygu Bayram
  * Metehan Eryılmaz
  * Gökçe Güneyi
